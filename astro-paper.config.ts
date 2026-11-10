@@ -2,13 +2,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://weils.top/",
     title: "魏连殳小录",
     description: "一点乱想",
     author: "魏连殳",
-    profile: "https://satna.ing",
+    profile: "https://github.com/fmgjz",
     ogImage: "default-og.jpg",
-    lang: "zh",
+    lang: "en",
     timezone: "Asia/Shanghai",
     dir: "ltr",
   },
